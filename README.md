@@ -1,4 +1,4 @@
-# Generative 3D City Generator
+# Generative 3D Cities
 
 A pipeline that procedurally generates cities as data grids and turns them into colored, 3D-printable models in Blender. Built with the Michigan Data Science Team (MDST). **Status: in progress.** The generation and export pipeline works end to end, and a text-to-parameter ML model is being developed.
 
